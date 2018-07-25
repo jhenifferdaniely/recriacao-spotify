@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-**Rectiação** da página inicial do site Spotify
+**Recriação** da página inicial do site Spotify.
 
 **Veja o projeto online**
 
