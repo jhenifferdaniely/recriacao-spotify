@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-**Recriação** da página inicial do site Spotify.
+**Recriação** da página inicial do site Spotify utilizando Bootstrap 3
 
 **Veja o projeto online**
 
