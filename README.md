@@ -1,7 +1,4 @@
-# Sobre o projeto
+### Curso Udemy
+Este site é resultado de um projeto elaborado no **Curso completo de desenvolvimento web**. Você pode obter o curso clicando [aqui](https://www.udemy.com/curso-completo-do-desenvolvedor-web/learn/v4/overview)
 
-**Recriação** da página inicial do site Spotify utilizando Bootstrap 3
-
-**Veja o projeto online**
-
-Visit the page of site, link of project: https://jhenifferdaniely.github.io/recriacao-spotify/
+> O projeto está disponível para visualização https://jhenifferdaniely.github.io/recriacao-spotify/
